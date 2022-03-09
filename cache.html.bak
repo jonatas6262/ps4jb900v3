@@ -53,6 +53,6 @@ function DisplayCacheProgress(){setTimeout(function(){window.msgs.innerHTML="Cac
 <button class="btn btn-blank"> Orbis-Toolbox </button>
 <button class="btn btn-blank"> Fan Threshold </button>
 <br>
-<h1 style="color: red;">YouTube: <a href="https://www.youtube.com/channel/UCzkfpaTrAHq3upkic_vbAfg" style="color:#000000; margin-center: 15px;">JonhRic Games</a></h1>
+<h1 style="margin-top: 40px;color: yellow;">Special Thanks to:<a href="https://twitter.com/sleirsgoevy" style="color:#f31414; margin-left: 15px;">@sleirsgoevy</a><a style="color:white; margin-left: 15px;">ChendoChap</a><a href="https://twitter.com/SpecterDev" style="color:#f31414; margin-left: 15px;">@SpecterDev</a><a style="color:white; margin-left: 15px;">SiSTR0</a><a href="https://twitter.com/Znullptr" style="color:#f31414; margin-left: 15px;">@Znullptr</a><a style="color:white; margin-left: 15px;">And Many More Developers ...</a></h1>
 </body>
 </html>
