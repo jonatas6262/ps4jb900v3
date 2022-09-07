@@ -1,8 +1,8 @@
 html, body {
-background-image: url('img3.jpg');
+background-image: url('img6.jpg');
 background-size: 100%;
 background-repeat: no-repeat;
-background-color: #24272b;
+background-color: #080808;
 color: white;
 text-align: left;
 margin: 0px;
@@ -61,8 +61,8 @@ background-color: #ae2301;
 background-color: #d42a01;
 }
 .btn-goldhen {
-background-color: #ba8c18;
+background-color: #a77e16;
 }
 .btn-goldhen:hover {
-background-color: #daa520;
+background-color: #e9ae1a;
 }
